@@ -26,3 +26,7 @@ If More than one notes have reminder time then notification should be displayed 
 Create Common Custom Dialog Box for add, edit note.
 
 Create RecyclerView & its adapter to display all notes.
+
+
+![Screenshot 2022-11-16 190023](https://user-images.githubusercontent.com/79136705/202199257-010ba719-ac52-48b0-a7b9-2d40fc1c4616.png)
+
